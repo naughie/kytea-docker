@@ -23,4 +23,4 @@ See [http://www.phontron.com/kytea/](http://www.phontron.com/kytea/) for more in
 ```
 
 If you want the multistage-build, copy above files and set the environment variable `LD_LIBRARY_PATH=/usr/local/lib`.
-Then you can execute `/usr/local/bin/kytea`.
+Then you can execute `/usr/local/bin/kytea` and `/usr/local/bin/train-kytea`.
